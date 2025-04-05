@@ -1,0 +1,10 @@
+10
+40
+,
+0 -1
+200
+Line #1: point radius, mm (positive integer; you could put several ones separated by space, and all would be done) 
+Line #2: numebr of intersection colors (integer from1 to 254) 
+Line #3: decimal pointer (. or ,)
+Line #4: start and stop time from analizing track part. If stop time <0, the track analizing to the ena point
+Line #5: central zone radius, mm (positive integer)
